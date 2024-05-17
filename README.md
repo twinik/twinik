@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=twinik&theme=rising-sun&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-    <img src="https://streak-stats.demolab.com?user=twinik&theme=blood&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=twinik&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
+    <img src="https://streak-stats.demolab.com?user=twinik&theme=blood&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
   </picture>
 </p>
 <!--
