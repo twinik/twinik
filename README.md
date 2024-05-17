@@ -1,6 +1,9 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=twinik&theme=rising-sun&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=twinik&theme=rising-sun&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+    <img src="https://streak-stats.demolab.com?user=twinik&theme=blood&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  </picture>
 </p>
 <!--
 **twinik/twinik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
